@@ -1,4 +1,4 @@
-# RISD | Web Design | Formatting Exercise
+# RISD | Web Design | Assignment 1
 
 Simple HTML formatting exercise using row and column parameters.
 
